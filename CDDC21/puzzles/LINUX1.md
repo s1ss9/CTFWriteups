@@ -30,7 +30,7 @@ None used
 
 Using the bot1 key provided, we ssh into the ip address with this format:
 
-ssh 13.213.192.83 -i bot1.key
+    ssh 13.213.192.83 -i bot1.key
 
 Then, we enter the provided passphrase to gain access.
 
