@@ -1,10 +1,10 @@
 # CDDC 21 Writeup
 
-This is a collection of my writeups for challenges in CDDC 2021.
+This is a collection of writeups for challenges in CDDC 2021.
 
 ## Final Rank
 
-My team (VodkaMatchaPotato) got 19th place in the SENIOR CATEGORY (Uni).
+Our team (VodkaMatchaPotato) got 19th place in the SENIOR CATEGORY (Uni).
 
 ![image](./images/FINALRANK.png)
 
