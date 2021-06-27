@@ -8,6 +8,8 @@ Reverse Engineering
 
 The recently captured file server contained a mysterious file that was probably used for getting access to other resources. Can you find the correct password?
 
+300 points
+
 ## Hint(s)
 
 None used.
