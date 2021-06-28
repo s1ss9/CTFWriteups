@@ -47,6 +47,10 @@ Scanning 666 in greater detail reveals this:
     | }}so
     | ~8VB
 
+Seems like there's a tar file hidden in the data provided by port 666. To get that data, we used netcat to connect directly and save the output. 
+Indeed we are given a tar file and extracting it reveals the flag. 
+
+
 ## Flag
 
     CDDC21{Y0u_Figu4ed_IT_0UT}
