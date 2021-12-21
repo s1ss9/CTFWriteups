@@ -19,6 +19,10 @@ We were first for the first few hours though.
 | [A01 - Broken System](./puzzles/A01.md)                   |  Stego   | Y      | 600 + 600           |
 | [Let's Go Hunting - Track Him Down!](./puzzles/OSINT2.md) |  OSINT   | Y      | 500                 |
 
+### Scoring
+
+![image](./images/Challenge_scores.png)
+
 # Finished but not written questions:
 
 1. A04
