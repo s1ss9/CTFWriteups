@@ -27,13 +27,11 @@ We were first for the first few hours though.
 
 1. A04
 2. A05
-3. A09
+
 4. A12
-5. A14
+
 6. A15 - completely forgot what this was
-7. A16 - @kaiwen
-8. A19 - @huixiang
-9. B32 - dont rmb what this was
-10. C61,62,63 - @kaiwen
+7. A19 - @huixiang
+
 
 Look through the stuff and just feel free to add if im missing something
